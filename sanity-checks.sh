@@ -1,3 +1,5 @@
+set -e  # Exit immediately if any command fails
+
 npm install
 
 # Provide execution permission.
